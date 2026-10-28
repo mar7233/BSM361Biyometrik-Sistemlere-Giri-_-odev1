@@ -27,10 +27,13 @@ Course: **BSM361 – Introduction to Biometric Systems**, Bartın University
 
 ## Plots
 
-The script produces three figures:
-- Genuine vs impostor score distributions
-- FAR and FRR against the threshold, with the EER point marked
-- FAR vs FRR (DET-style) curve
+**Genuine vs impostor score distributions**
+
+![Score distributions](docs/screenshots/score-distributions.png)
+
+| FAR and FRR vs threshold | FAR vs FRR curve |
+|---|---|
+| ![FAR and FRR against the threshold, with the EER point](docs/screenshots/far-frr-threshold.png) | ![FAR vs FRR curve](docs/screenshots/far-vs-frr.png) |
 
 ## Run
 
